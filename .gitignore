@@ -1,0 +1,4 @@
+split_files
+*.csv
+*.xlsx
+*.zip
